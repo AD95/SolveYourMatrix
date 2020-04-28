@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SolveyourMatrix.iml" filepath="$PROJECT_DIR$/SolveyourMatrix.iml" group="SolveyourMatrix" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SolveyourMatrix/app" />
+      <module fileurl="file://$PROJECT_DIR$/SolveYourMatrix.iml" filepath="$PROJECT_DIR$/SolveYourMatrix.iml" group="SolveYourMatrix" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SolveYourMatrix/app" />
     </modules>
   </component>
 </project>
